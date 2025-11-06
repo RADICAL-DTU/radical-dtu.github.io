@@ -12,7 +12,7 @@ email: rogle@dtu.dk
 description: >
   Some description
 baseurl: ""
-url: "https://rogle.github.io"
+url: "https://radical-dtu.github.io"
 
 include:
   - .htaccess
