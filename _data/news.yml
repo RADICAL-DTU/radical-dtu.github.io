@@ -1,0 +1,163 @@
+# - date: 27/08/25
+#   title: A new paper has been published. For the second time we do actual hardware calculations on the IBM devices.
+#   content: P. W. K. Jensen et al., Hyperfine Coupling Constants on Quantum Computers - Performance, Errors, and Future Prospects, J. Chem. Theory Comput.
+#   link:
+#     title: Link
+#     url: https://pubs.acs.org/doi/full/10.1021/acs.jctc.5c00893
+
+# - date: 15/05/25
+#   title: Phillip W. K. Jensen has been appointed as Assistant Professor at the Department of Chemistry, University of Copenhagen.
+
+# - date: 13/03/25
+#   title: Another quantum computing paper has been uploaded to arXiv.
+#   content: P. W. K. Jensen et al., arXiv:2503.09214
+#   link:
+#     title: Link
+#     url: https://arxiv.org/abs/2503.09214
+
+# - date: 14/01/25
+#   title: One more quantum computing paper has been uploaded to arXiv.
+#   content: P. Reinholdt et al., Exposing a Fatal Flaw in Sample-based Quantum Diagonalization Methods, arXiv:2501.07231
+#   link:
+#     title: Link
+#     url: https://doi.org/10.48550/arXiv.2501.07231
+
+# - date: 14/01/25
+#   title: Our ninth quantum computing paper is now published in J. Phys. Chem. A.
+#   content: P. Reinholdt et al., Self-consistent Quantum Linear Response with a Polarizable Embedding environment, J. Phys. Chem. A.
+#   link:
+#     title: Link
+#     url: https://doi.org/10.1021/acs.jpca.4c07534
+# - date: 14/01/25
+#   title: Our eighth quantum computing paper is now published in Chem. Sci.
+#   content: K. M. Ziems et al., Understanding and mitigating noise in molecular quantum linear response for spectroscopic properties on quantum computers, Chem. Sci.
+#   link:
+#     title: Link
+#     url: https://pubs.rsc.org/en/Content/ArticleLanding/2025/SC/D4SC05839A
+# - date: 07/11/24
+#   title: The next quantum computing paper is uploaded to arXiv!
+#   content: Reinholdt et al., Self-consistent Quantum Linear Response with a Polarizable Embedding environment, arXiv:2411.03852
+#   link:
+#     title: Link
+#     url: https://arxiv.org/abs/2411.03852
+# - date: 26/9/24
+#   title: Our seventh quantum computing paper is now published in J. Chem. Phys
+#   content: Kjellgren et al., Divergences in classical and quantum linear response and equation of motion formulations,  J. Chem. Phys. <b>161</b>, 124112 (2024)
+#   link:
+#     title: Link
+#     url: https://doi.org/10.1063/5.0225409
+# - date: 28/8/24
+#   title: Our sixth quantum computing paper is now published in J. Chem. Theory Comput. Chem. A with our PhD student Theo Juncker von Buchwald as first author
+#   content: von Buchwald et al., Reduced density matrix formulation of quantum linear response, J. Chem. Theory Comput. <b>20</b>, 7093-7101 (2024)
+#   link:
+#    title: Link
+#    url: https://doi.org/10.1021/acs.jctc.4c00574
+# - date: 17/8/24
+#   title: The next quantum computing paper is uploaded to arXiv
+#   content: K. M. Ziems et al., Understanding and mitigating noise in molecular quantum linear response for spectroscopic properties on quantum computers, arXiv:2408.09308
+#   link:
+#    title: Link
+#    url: https://arxiv.org/abs/2408.09308
+# - date: 16/8/24
+#   title: A PhD position in "Error Mitigation Strategies for Quantum Chemistry on NISQ quantum computers" is open in the group of prof. Jacob Kongsted at SDU in Odense, Denmark.
+#   content:
+#   link:
+#    title: Link
+#    url: https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/da/sites/CX_1001/job/1993/?utm_medium=jobshare
+# - date: 1/8/24
+#   title: Our fifth quantum computing paper is now published in J. Phys. Chem. A with our MSc student Dániel Nagy as first author
+#   content: Nagy et al., Electric Field Gradient Calculations for Ice VIII and IX using Polarizable Embedding - A Comparative Study on Classical Computers and Quantum Simulators, J. Phys. Chem. A 128, 6305-6315 (2024)
+#   link:
+#    title: Link
+#    url: https://doi.org/10.1021/acs.jpca.4c02697
+# - date: 24/6/24
+#   title: The next quantum computing paper is uploaded to arXiv
+#   content: E. R. Kjellgren et al., Divergences in classical and quantum linear response and equation of motion formulations, arXiv:2406.17141
+#   link:
+#    title: Link
+#    url: https://arxiv.org/abs/2406.17141
+# - date: 13/06/24
+#   title: Hybrid Quantum Chemistry on Hybrid NISQ Quantum Computers
+#   content: Professor Stephan P. A. Sauer' Talk at the Center for Free-Electron Laser Science (DESY) Molecular and Ultrafast Science Seminar, DESY, Hamburg, Germany.
+#   link:
+#    title: Link
+#    url: https://indico.desy.de/event/44445/
+# - date: 21/5/24
+#   title: The next three quantum computing papers are published
+#   content: and all in the same issue of Journal of Computational Theory and Computation, <b>20</b>(9) (2024)
+#   link:
+#    title: Link
+#    url: https://pubs.acs.org/toc/jctcce/20/9
+# - date: 27/3/24
+#   title: Our first quantum computing paper is published
+#   content: The variational quantum eigensolver self-consistent field method within a polarizable embedded framework, J. Chem. Phys. 160, 124114 (2024)
+#   link:
+#    title: Link
+#    url: https://doi.org/10.1063/5.0190594
+# - date: 15/3/24
+#   title: Calculation of molecular spectroscopic properties on quantum computers
+#   content: Phillip W. K. Jensen' Talk at the 2nd Annual Meeting of the UCPH Quantum Hub 2024, Copenhagen, Denmark.
+#   link:
+#    title: Link
+#    url: https://www.math.ku.dk/english/calendar/events/quantum-hub-annual-meeting
+# - date: 6/3/24
+#   title: Quantum Equation of Motion in Active Spaces for Computing Molecular Excitation Energies in Near-Term Quantum Computing
+#   content: Phillip W. K. Jensen' Talk at the APS March Meeting 2024, Minneapolis, USA.
+#   link:
+#    title: Link
+#    url: https://march.aps.org/sessions/N49/2
+# - date: 5/3/24
+#   title: Quantum Equation of Motion in Active Spaces for Computing Molecular Excitation Energies in Near-Term Quantum Computing
+#   content: Phillip W. K. Jensen' Poster at the APS March Meeting 2024, Minneapolis, USA.
+#   link:
+#    title: Link
+#    url: https://march.aps.org/sessions/J00/282
+# - date: 14/11/23
+#   title: Hybrid Quantum Chemistry on Hybrid NISQ Quantum Computers - The Danish IBM Quantum Innovation Center
+#   content: Professor Stephan P. A. Sauer' Talk at the 3rd Nordic Quantum Life Science Roundtable, Helsinki, Finland.
+#   link:
+#    title: Link
+#    url: https://algorithmiq.fi/nordic-quantum-life-science-roundtable/
+# - date: 8/11/23
+#   title: Hybrid Quantum Chemistry on Hybrid NISQ Quantum Computers - The Danish IBM Quantum Innovation Center
+#   content: Professor Stephan P. A. Sauer' Talk at DeiC Konference 2023, Kolding, Denmark.
+#   link:
+#    title: Link
+#    url: https://event.deic.dk/website/default.vbhtml?t=Om-Event&UserID=&PageUniqueID=8fc0ad95-3246-45ad-bc49-192784252b8a&PageType=1&ConfId=15a55f01-1d2f-46c6-a4a1-ebe8b49b1f5f&Lang=47/
+# - date: 16/10/23
+#   title: Hybrid Quantum Chemistry on Hybrid NISQ Quantum Computers - The Danish IBM Quantum Innovation Center
+#   content: Professor Stephan P. A. Sauer' Talk at the Quantum Industry Day in Switzerland 2023, Lausanne, Switzerland.
+#   link:
+#    title: Link
+#    url: https://qidis23.b2match.io/
+# - date: 28/9/23
+#   title: Hybrid Quantum Chemistry on Hybrid Quantum Computers - (HQC)2 - A status report after 8 months
+#   content: Professor Stephan P. A. Sauer' Talk at the NQCP Life in Quantum Seminar, Niels Bohr Institut, University of Copenhagen, Denmark.
+#   link:
+#    title: Link
+#    url: https://nqcp.ku.dk/meet-us.html
+# - date: 6/9/23
+#   title: Hybrid Quantum Chemistry on Hybrid Quantum Computers - (HQC)2 - A status report after 8 months
+#   content: Professor Stephan P. A. Sauer' Talk at the Invent What’s Next with IBM Research – Africa conference, University of Witwatersrand, Johannesburg, South Africa.
+#   link:
+#    title: Link
+#    url: https://research.ibm.com/events/inventing-whats-next-africa-2023/
+# - date: 10/05/23
+#   title: Hybrid Quantum Chemistry on Hybrid Quantum Computers - (HQC)2 - A status report after 4 months
+#   content: Professor Stephan P. A. Sauer' Talk at the Quantum Computing Applications in Chemical and Biochemical Engineering Workshop, Technical University of Denmark, Lyngby, Denmark.
+#   link:
+#     title: Link
+#     url: https://www.aiche.org/sbe/conferences/quantum-computing-applications-chemical-and-biochemical-engineering-workshop/2023
+# - date: 7/10/22
+#   title: ComputerWorld writes about our NNF grant
+#   content: DKK 40 million from the overflowing money tank at the Novo Nordisk Foundation is earmarked for quantum research and a new hub at the University of Copenhagen,
+#            which will be the first of its kind in Scandinavia.
+#   link:
+#     title: Link
+#     url: https://www.computerworld.dk/art/262151/novo-nordisk-fonden-skyder-40-millioner-kroner-i-kvanteforskning-vil-soesaette-skandinaviens-foerste-kvantehub-paa-koebenhavns-universitet
+# - date: 7/10/22
+#   title: Novo Nordisk Foundation announces grant for the Hybrid Quantum Chemistry on Hybrid Quantum Computers project
+#   content: New research project will develop tools to enable quantum computers to calculate molecular properties
+#   link:
+#     title: Link
+#     url: https://novonordiskfonden.dk/en/news/new-research-project-will-develop-tools-to-enable-quantum-computers-to-calculate-molecular-properties/
