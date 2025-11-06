@@ -41,8 +41,8 @@ Q3: How can efficient yet accurate environmental models be implemented on quantu
 
 ### Literature references
 
-[Helgaker2000] T Helgaker, P Jørgensen, J Olsen, Molecular Electronic-Structure Theory, Wiley, 2000
+<!-- [Helgaker2000] T Helgaker, P Jørgensen, J Olsen, Molecular Electronic-Structure Theory, Wiley, 2000
 
 [Loos2020] PF Loos et al., J. Phys. Chem. Lett. 11, 2374 (2020)
 
-[Aspuru-Guzik2019] A Aspuru-Guzik et al., Nat. Chem. 11, 286 (2019)
+[Aspuru-Guzik2019] A Aspuru-Guzik et al., Nat. Chem. 11, 286 (2019) -->

@@ -19,7 +19,7 @@ permalink: /publications
 <a href="https://arxiv.org/abs/2511.03556" rel="nofollow noopener" target="_blank">Quantum error mitigation using energy sampling and extrapolation enhanced Clifford data regression</a>,
   arXiv:2508.07296 </li>
 </ul>
-
+<!-- 
 <ul>
   <li>T. Juncker von Buchwald, E. R. Kjellgren, J. Kongsted, S. P. A. Sauer, S. Coriani:
 <a href="https://arxiv.org/abs/2508.07296" rel="nofollow noopener" target="_blank">Reduced density matrix and cumulant approximations of quantum linear response</a>,
@@ -70,4 +70,4 @@ J. Chem. Theory Comput. <b>20</b>, 3551-3565 (2024)</li>
 J. Chem. Phys. <b>160</b>, 124114 (2024)</li>
 </ul>
 
-{{ bibliography }}
+{{ bibliography }} -->
