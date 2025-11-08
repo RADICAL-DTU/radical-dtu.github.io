@@ -1,21 +1,40 @@
-<!DOCTYPE html>
-<html>
-
-  {% include head.html %}
-
+<!doctype html>
+<html lang="en">
+  <head>
+    {% include head.html %}
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <!-- Use a clean system font stack; fallback to Google font if available -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/site.css">
+  </head>
   <body>
-
-    {% include header.html %}
-
-    <div class="container-fluid">
-      <div class="col-sm-12">
-        <div class="row">
-          {{ content }}
-        </div>
+    <header class="site-header">
+      <div class="container header-inner">
+        <a class="brand" href="{{ '/' | relative_url }}">
+          <!-- site.title if available -->
+          {% if site.title %}{{ site.title }}{% else %}My Site{% endif %}
+        </a>
+        <nav class="site-nav">
+          <!-- keeps small nav, users can customize -->
+          <a href="{{ '/' | relative_url }}">Home</a>
+          <a href="{{ '/about/' | relative_url }}">About</a>
+          <a href="{{ '/blog/' | relative_url }}">Blog</a>
+        </nav>
       </div>
-    </div>
+    </header>
+
+    <main class="container site-main">
+      <div class="row">
+        {{ content }}
+      </div>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container">
+        <p>© {{ site.time | date: "%Y" }} {% if site.title %}{{ site.title }}{% else %}My Site{% endif %} · Built with Jekyll</p>
+      </div>
+    </footer>
 
     {% include footer.html %}
   </body>
-
 </html>
