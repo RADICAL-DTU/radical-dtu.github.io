@@ -18,7 +18,7 @@ relationships of atomically dispersed metal catalysts for electrochemical Hâ‚‚Oâ
 
 3) To develop atomically dispersed metal catalysts
 with the following performance criteria verified in HPNow reactors: faradaic efficiency > 60 %, total
-cell voltage < 1.6 V, cathode potential > 0.1 V at the current density of 100 mA cm-2, and a
+cell voltage < 1.6 V, cathode potential > 0.1 V at the current density of 100 mA cm<sup>-2</sup>, and a
 degradation of catalyst activity and selectivity below 5% after 750 hours of operation.
 
 #### **Literature references**
