@@ -10,9 +10,7 @@ permalink: /
 
 The motivation of **RADICAL** is to develop efficient and stable atomically dispersed metal catalysts
 (ADMCs) for the electrochemical production of H₂O₂, through deeply integrated theoretical and
-experimental studies. Currently, the production of H₂O₂ through the anthraquinone process generates
-over **20 million tons** of greenhouse gases and **55 million tons** of chemical waste per year.
-
+experimental studies.
 ---
 
 #### **Funding**
