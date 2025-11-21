@@ -22,8 +22,8 @@ permalink: /publications
 
 #### **Submitted**
 
-<ul>
+<!-- <ul>
   <li>Gleeson, R., Fortunelli, A., Hommelgaard, M.M., Stener, M., Hu, Y. and Hansen, H.A.
   An Experimental and DFT Workflow for Active Site Characterisation of Single Atom Catalysts using Core-Level Spectroscopy and ORR Microkinetic Modelling,
   ACS Catalysis </li>
-</ul>
+</ul> -->
